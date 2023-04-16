@@ -1,2 +1,1 @@
-# htnl.practice
-# html.practice
+railstutorial.jpのhtml 1.2.1演習問題
