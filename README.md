@@ -1,1 +1,1 @@
-railstutorial.jpのhtml 1.2.1演習問題
+railstutorial.jpの演習問題
