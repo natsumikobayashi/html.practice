@@ -1,2 +1,5 @@
-#!~/.nvm/versions/node/v16.19.1/bin/node
-console.log("hello, world!");
+console.log("hello,world!");
+console.log("hello,\tworld!");
+console.log("hello,\nworld!");
+console.log("this is \"apple\"");
+console.log("foo"+"bar");
