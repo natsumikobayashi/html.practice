@@ -24,3 +24,5 @@ console.log(home);
 
 home = `${prefecture} ${city} ${number}`;
 console.log(home);
+
+console.log(text5, text6);
