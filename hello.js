@@ -26,3 +26,10 @@ home = `${prefecture} ${city} ${number}`;
 console.log(home);
 
 console.log(text5, text6);
+
+let password = "foooobar";
+if (password.length < 6){
+    console.log("パスワードが短すぎます");
+} else {
+    console.log("パスワードの長さは適切です");
+}
