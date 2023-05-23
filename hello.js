@@ -33,3 +33,13 @@ if (password.length < 6){
 } else {
     console.log("パスワードの長さは適切です");
 }
+
+let x = "foo";
+let y = "";
+
+if (x.length === 0 && y.length === 0) {
+    "どちらの文字列も空です";
+} else {
+    "少なくともどちらかは空ではありません";
+}
+
