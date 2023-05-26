@@ -43,3 +43,20 @@ if (x.length === 0 && y.length === 0) {
     "少なくともどちらかは空ではありません";
 }
 
+let firstname = "MICHAEL";
+console.log(firstname);
+
+let username = firstname.toLowerCase();
+console.log(username + "@example.com");
+
+firstname = "michael";
+username = firstname.toUpperCase();
+console.log(username + "@example.com");
+
+let honey = "hoNeY BaDGer";
+console.log(honey.includes("bad"));
+console.log(honey.includes("BaD"));
+console.log(honey.includes("hoNeY",1));
+console.log(honey.includes("oNeY",1));
+console.log(honey.includes("NeY",2));
+console.log(/badger/i.test(honey));
