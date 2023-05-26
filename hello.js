@@ -60,3 +60,8 @@ console.log(honey.includes("hoNeY",1));
 console.log(honey.includes("oNeY",1));
 console.log(honey.includes("NeY",2));
 console.log(/badger/i.test(honey));
+console.log(honey.charAt(4));
+
+for(let i = 0; i < honey.length; i++){
+    console.log(honey.charAt(i));
+}
