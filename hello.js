@@ -65,3 +65,20 @@ console.log(honey.charAt(4));
 for(let i = 0; i < honey.length; i++){
     console.log(honey.charAt(i));
 }
+
+let soliloguy = "To be, or not to be, that is the question:";
+console.log(soliloguy.length);
+for(let i = 0; i < soliloguy.length; i++){
+    console.log(soliloguy.charAt(i));
+}
+
+let N = soliloguy.length;
+console.log(N);
+
+for(let i = 0; i < soliloguy.length; i++){
+    console.log(soliloguy.charAt(i));
+}
+
+for(let i = 0; i < soliloguy.length; i++){
+    console.log(soliloguy[i]);
+}
